@@ -4166,24 +4166,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Carlos Raul Cabrera\\.nuget\\packages\\": {},
+    "C:\\Users\\USUARIO\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Practices\\PM2Examen0023\\PM2Examen0023.Android\\PM2Examen0023.Android.csproj",
+      "projectUniqueName": "C:\\Users\\USUARIO\\Documents\\GitHub\\PM2EXAMEN00020023\\PM2Examen0023.Android\\PM2Examen0023.Android.csproj",
       "projectName": "PM2Examen0023.Android",
-      "projectPath": "C:\\Practices\\PM2Examen0023\\PM2Examen0023.Android\\PM2Examen0023.Android.csproj",
-      "packagesPath": "C:\\Users\\Carlos Raul Cabrera\\.nuget\\packages\\",
-      "outputPath": "C:\\Practices\\PM2Examen0023\\PM2Examen0023.Android\\obj\\",
+      "projectPath": "C:\\Users\\USUARIO\\Documents\\GitHub\\PM2EXAMEN00020023\\PM2Examen0023.Android\\PM2Examen0023.Android.csproj",
+      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USUARIO\\Documents\\GitHub\\PM2EXAMEN00020023\\PM2Examen0023.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Carlos Raul Cabrera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4197,8 +4197,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "C:\\Practices\\PM2Examen0023\\PM2Examen0023\\PM2Examen0023.csproj": {
-              "projectPath": "C:\\Practices\\PM2Examen0023\\PM2Examen0023\\PM2Examen0023.csproj"
+            "C:\\Users\\USUARIO\\Documents\\GitHub\\PM2EXAMEN00020023\\PM2Examen0023\\PM2Examen0023.csproj": {
+              "projectPath": "C:\\Users\\USUARIO\\Documents\\GitHub\\PM2EXAMEN00020023\\PM2Examen0023\\PM2Examen0023.csproj"
             }
           }
         }

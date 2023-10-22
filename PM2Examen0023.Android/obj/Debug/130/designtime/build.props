@@ -25,11 +25,11 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-_nugetassetstimestamp=638335274783884198
+_nugetassetstimestamp=638335613863558295
 typemapkind=strings-asm
 androidsupportedabis=arm64-v8a
 armeabi-v7a
 x86
 x86_64
 androidmanifestplaceholders=
-projectfullpath=c:\practices\pm2examen0023\pm2examen0023.android\pm2examen0023.android.csproj
+projectfullpath=c:\users\usuario\documents\github\pm2examen00020023\pm2examen0023.android\pm2examen0023.android.csproj

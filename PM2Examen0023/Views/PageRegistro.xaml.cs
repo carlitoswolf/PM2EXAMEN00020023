@@ -17,12 +17,23 @@ namespace PM2Examen0023.Views
     {
 
         Plugin.Media.Abstractions.MediaFile photo = null;
-        public PageRegistro()
+        public  PageRegistro()
         {
             InitializeComponent();
+        
         }
 
-        public byte[] ImagetoArrayByte()
+        protected override async void OnAppearing()
+        {
+            base.OnAppearing();
+            var (latitude, longitude) = await GetLocationAsync();
+
+            _lat.Text = latitude.ToString();
+            _lon.Text = longitude.ToString();
+
+        }
+
+            public byte[] ImagetoArrayByte()
         {
             if (photo != null)
             {
@@ -94,6 +105,20 @@ namespace PM2Examen0023.Views
             _des.Text = "";
             foto.Source = "";
 
+        }
+
+        public async Task<(double Latitude, double Longitude)> GetLocationAsync()
+        {
+            try
+            {
+                var location = await Geolocation.GetLocationAsync(new GeolocationRequest(GeolocationAccuracy.Medium));
+                return (location.Latitude, location.Longitude);
+            }
+            catch (Exception ex)
+            {
+                // Handle exception here
+                return (0, 0);
+            }
         }
     }
 }
