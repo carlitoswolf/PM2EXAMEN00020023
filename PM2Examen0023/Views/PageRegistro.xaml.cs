@@ -33,7 +33,7 @@ namespace PM2Examen0023.Views
 
         }
 
-            public byte[] ImagetoArrayByte()
+        public byte[] ImagetoArrayByte()
         {
             if (photo != null)
             {
@@ -66,25 +66,38 @@ namespace PM2Examen0023.Views
 
         private async void btnAdd_Clicked(object sender, EventArgs e)
         {
-            var address = new Models.Address
+            string latitude = _lat.Text;
+            string longitude = _lon.Text;
+            string descripcion = _des.Text;
+
+            if (string.IsNullOrWhiteSpace(latitude) || string.IsNullOrWhiteSpace(longitude) || string.IsNullOrWhiteSpace(descripcion) || foto.Source == null)
             {
-                lat = Convert.ToDouble(_lat.Text),
-                lon = Convert.ToDouble(_lon.Text),
-                description = _des.Text,
-                photo = ImagetoArrayByte()
-            };
-
-            if (await App.instance.AddLocation(address) > 0)
-            {
-                await DisplayAlert("AVISO", "Direccion Agregada Exitosamente", "OK");
-
-                Clean();
-
+                await DisplayAlert("Campos Vacíos", "Por favor, complete todos los campos, incluyendo la imagen.", "OK");
             }
             else
             {
-                await DisplayAlert("ERROR", "Ha Ocurrido un Error", "OK");
+                var address = new Models.Address
+                {
+                    lat = Convert.ToDouble(_lat.Text),
+                    lon = Convert.ToDouble(_lon.Text),
+                    description = _des.Text,
+                    photo = ImagetoArrayByte()
+                };
+
+                if (await App.instance.AddLocation(address) > 0)
+                {
+                    await DisplayAlert("AVISO", "Dirección agregada exitosamente!", "OK");
+
+                    Clean();
+
+                }
+                else
+                {
+                    await DisplayAlert("ERROR", "Ha Ocurrido un Error", "OK");
+                }
             }
+
+            
         }
 
         private async void btnListSites_Clicked(object sender, EventArgs e)

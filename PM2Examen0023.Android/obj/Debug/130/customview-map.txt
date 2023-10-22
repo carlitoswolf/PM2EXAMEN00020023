@@ -21,8 +21,6 @@ com.google.android.material.bottomnavigation.BottomNavigationView;C:\Users\USUAR
 com.google.android.material.tabs.TabLayout;C:\Users\USUARIO\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023.Android\obj\Debug\130\lp\60\jl\res\layout\fallbacktabbardonotuse.xml
 com.google.android.material.tabs.TabLayout;C:\Users\USUARIO\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023.Android\obj\Debug\130\lp\60\jl\res\layout\rootlayout.xml
 com.google.android.material.tabs.TabLayout;C:\Users\USUARIO\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023.Android\obj\Debug\130\lp\60\jl\res\layout\tabbar.xml
-crc643f46942d9dd1fff9.ShellFlyoutLayout;C:\Users\USUARIO\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023.Android\obj\Debug\130\lp\60\jl\res\layout\flyoutcontent.xml
-crc64720bb2db43a66fe9.FormsViewPager;C:\Users\USUARIO\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023.Android\obj\Debug\130\lp\60\jl\res\layout\rootlayout.xml
 declare-styleable;C:\Users\USUARIO\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023.Android\obj\Debug\130\lp\60\jl\res\values\attrs.xml
 external-cache-path;C:\Users\USUARIO\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023.Android\obj\Debug\130\lp\58\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 external-files-path;obj\Debug\130\res\xml\file_paths.xml
