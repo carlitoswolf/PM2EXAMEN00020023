@@ -1,0 +1,17 @@
+C:\Practices\PM2Examen0023\PM2Examen0023\bin\Debug\netstandard2.0\PM2Examen0023.deps.json
+C:\Practices\PM2Examen0023\PM2Examen0023\bin\Debug\netstandard2.0\PM2Examen0023.dll
+C:\Practices\PM2Examen0023\PM2Examen0023\bin\Debug\netstandard2.0\ref\PM2Examen0023.dll
+C:\Practices\PM2Examen0023\PM2Examen0023\bin\Debug\netstandard2.0\PM2Examen0023.pdb
+C:\Practices\PM2Examen0023\PM2Examen0023\obj\Debug\netstandard2.0\PM2Examen0023.csproj.AssemblyReference.cache
+C:\Practices\PM2Examen0023\PM2Examen0023\obj\Debug\netstandard2.0\PM2Examen0023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practices\PM2Examen0023\PM2Examen0023\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Practices\PM2Examen0023\PM2Examen0023\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Practices\PM2Examen0023\PM2Examen0023\obj\Debug\netstandard2.0\Views\PageRegistro.xaml.g.cs
+C:\Practices\PM2Examen0023\PM2Examen0023\obj\Debug\netstandard2.0\PM2Examen0023.AssemblyInfoInputs.cache
+C:\Practices\PM2Examen0023\PM2Examen0023\obj\Debug\netstandard2.0\PM2Examen0023.AssemblyInfo.cs
+C:\Practices\PM2Examen0023\PM2Examen0023\obj\Debug\netstandard2.0\PM2Examen0023.csproj.CoreCompileInputs.cache
+C:\Practices\PM2Examen0023\PM2Examen0023\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Practices\PM2Examen0023\PM2Examen0023\obj\Debug\netstandard2.0\PM2Examen0023.dll
+C:\Practices\PM2Examen0023\PM2Examen0023\obj\Debug\netstandard2.0\refint\PM2Examen0023.dll
+C:\Practices\PM2Examen0023\PM2Examen0023\obj\Debug\netstandard2.0\PM2Examen0023.pdb
+C:\Practices\PM2Examen0023\PM2Examen0023\obj\Debug\netstandard2.0\Views\PageListLocation.xaml.g.cs
