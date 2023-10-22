@@ -10,9 +10,11 @@
       "PM2Examen0023/1.0.0": {
         "dependencies": {
           "NETStandard.Library": "2.0.3",
+          "Xam.Plugin.Geolocator": "4.5.0.6",
           "Xam.Plugin.Media": "6.0.2",
           "Xamarin.Essentials": "1.8.0",
           "Xamarin.Forms": "5.0.0.2612",
+          "Xamarin.Forms.Maps": "5.0.0.2612",
           "sqlite-net-pcl": "1.8.116"
         },
         "runtime": {
@@ -109,6 +111,14 @@
           }
         }
       },
+      "Xam.Plugin.Geolocator/4.5.0.6": {
+        "runtime": {
+          "lib/netstandard2.0/Plugin.Geolocator.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "Xam.Plugin.Media/6.0.2": {
         "runtime": {
           "lib/netstandard2.0/Plugin.Media.dll": {
@@ -139,6 +149,17 @@
             "fileVersion": "5.0.0.993"
           },
           "lib/netstandard2.0/Xamarin.Forms.Xaml.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "5.0.0.993"
+          }
+        }
+      },
+      "Xamarin.Forms.Maps/5.0.0.2612": {
+        "dependencies": {
+          "Xamarin.Forms": "5.0.0.2612"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.Maps.dll": {
             "assemblyVersion": "2.0.0.0",
             "fileVersion": "5.0.0.993"
           }
@@ -229,6 +250,13 @@
       "path": "system.runtime.compilerservices.unsafe/4.5.2",
       "hashPath": "system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
     },
+    "Xam.Plugin.Geolocator/4.5.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ro7peBDxsDXPc7J7yLx0ekAcXIfVTAXj/rXiBKiTgZ4Lm7KZJIU8PXOCcI4JztzT3MQrL8Rmka48il/ix0pwoA==",
+      "path": "xam.plugin.geolocator/4.5.0.6",
+      "hashPath": "xam.plugin.geolocator.4.5.0.6.nupkg.sha512"
+    },
     "Xam.Plugin.Media/6.0.2": {
       "type": "package",
       "serviceable": true,
@@ -249,6 +277,13 @@
       "sha512": "sha512-zQcy3NJgRJnLRWQZ2TZPCgDoTDHoYskHLutKDvz1pVNtvJ8U7kkg4mE2XATs3dAkQ+oWoqB4VOBGRk9uAfoRMw==",
       "path": "xamarin.forms/5.0.0.2612",
       "hashPath": "xamarin.forms.5.0.0.2612.nupkg.sha512"
+    },
+    "Xamarin.Forms.Maps/5.0.0.2612": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nQWQ6skgD4VhCyCu1pDvuxPPsZiaU5T4X4xn61nfT9+z5Rtx2Nq8y3pYbUhK3J7op5YyMUa9o3E6t7Y4+W5Uag==",
+      "path": "xamarin.forms.maps/5.0.0.2612",
+      "hashPath": "xamarin.forms.maps.5.0.0.2612.nupkg.sha512"
     }
   }
 }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PM2Examen0023.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,6 +13,7 @@ namespace PM2Examen0023.Views
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class PageList : ContentPage
     {
+        public Double latitude, longitude;
         public PageList()
         {
             InitializeComponent();
@@ -24,9 +26,16 @@ namespace PM2Examen0023.Views
             list.ItemsSource = await App.instance.GetList();
         }
 
-        private void list_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        private async void list_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
+            var selectedItem = e.CurrentSelection[0] as Address;
+            if (selectedItem != null)
+            {
+                latitude = selectedItem.lat;
+                longitude = selectedItem.lon;
 
+                await Navigation.PushAsync(new NavigationPage(new Views.PageMapa()));
+            }
         }
     }
 }
