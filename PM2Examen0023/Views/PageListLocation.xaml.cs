@@ -34,7 +34,7 @@ namespace PM2Examen0023.Views
                 latitude = selectedItem.lat;
                 longitude = selectedItem.lon;
 
-                await Navigation.PushAsync(new NavigationPage(new Views.PageMapa()));
+                await Navigation.PushAsync(new Views.PageMapa());
             }
         }
     }

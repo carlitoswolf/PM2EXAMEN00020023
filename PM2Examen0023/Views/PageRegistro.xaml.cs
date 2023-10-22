@@ -102,7 +102,7 @@ namespace PM2Examen0023.Views
 
         private async void btnListSites_Clicked(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new NavigationPage(new Views.PageList()));
+            await Navigation.PushAsync(new Views.PageList());
 
         }
 
@@ -113,8 +113,8 @@ namespace PM2Examen0023.Views
 
         public void Clean()
         {
-            _lat.Text = "";
-            _lon.Text = "";
+            //_lat.Text = "";
+            //_lon.Text = "";
             _des.Text = "";
             foto.Source = "";
 
