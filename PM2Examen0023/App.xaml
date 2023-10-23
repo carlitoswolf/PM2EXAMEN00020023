@@ -20,7 +20,7 @@
             <Style TargetType="Button">
                 <Setter Property="FontSize" Value="18" />
                 <Setter Property="TextColor" Value="White" />
-                <Setter Property="BackgroundColor" Value="SteelBlue" />
+                <Setter Property="BackgroundColor" Value="DarkGreen" />
                 <Setter Property="Margin" Value="8" />
                 <Setter Property="BorderWidth" Value="10" />
             </Style>

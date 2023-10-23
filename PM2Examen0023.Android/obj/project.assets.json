@@ -4172,11 +4172,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Carlos Raul Cabrera\\Documents\\GitHub\\PM2EXAMEN00020023\\PM2Examen0023.Android\\PM2Examen0023.Android.csproj",
       "projectName": "PM2Examen0023.Android",
       "projectPath": "C:\\Users\\Carlos Raul Cabrera\\Documents\\GitHub\\PM2EXAMEN00020023\\PM2Examen0023.Android\\PM2Examen0023.Android.csproj",
       "packagesPath": "C:\\Users\\Carlos Raul Cabrera\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Carlos Raul Cabrera\\Documents\\GitHub\\PM2EXAMEN00020023\\PM2Examen0023.Android\\obj\\",
+=======
+      "projectUniqueName": "C:\\Practices\\PM2Examen0023\\PM2Examen0023.Android\\PM2Examen0023.Android.csproj",
+      "projectName": "PM2Examen0023.Android",
+      "projectPath": "C:\\Practices\\PM2Examen0023\\PM2Examen0023.Android\\PM2Examen0023.Android.csproj",
+      "packagesPath": "C:\\Users\\Carlos Raul Cabrera\\.nuget\\packages\\",
+      "outputPath": "C:\\Practices\\PM2Examen0023\\PM2Examen0023.Android\\obj\\",
+>>>>>>> 2963313d4006fa69082cf2a786e69495bd58cdad
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -4197,8 +4205,13 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\Carlos Raul Cabrera\\Documents\\GitHub\\PM2EXAMEN00020023\\PM2Examen0023\\PM2Examen0023.csproj": {
               "projectPath": "C:\\Users\\Carlos Raul Cabrera\\Documents\\GitHub\\PM2EXAMEN00020023\\PM2Examen0023\\PM2Examen0023.csproj"
+=======
+            "C:\\Practices\\PM2Examen0023\\PM2Examen0023\\PM2Examen0023.csproj": {
+              "projectPath": "C:\\Practices\\PM2Examen0023\\PM2Examen0023\\PM2Examen0023.csproj"
+>>>>>>> 2963313d4006fa69082cf2a786e69495bd58cdad
             }
           }
         }

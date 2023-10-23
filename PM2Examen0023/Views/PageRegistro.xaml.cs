@@ -33,7 +33,7 @@ namespace PM2Examen0023.Views
 
         }
 
-        public byte[] ImagetoArrayByte()
+            public byte[] ImagetoArrayByte()
         {
             if (photo != null)
             {
@@ -66,43 +66,30 @@ namespace PM2Examen0023.Views
 
         private async void btnAdd_Clicked(object sender, EventArgs e)
         {
-            string latitude = _lat.Text;
-            string longitude = _lon.Text;
-            string descripcion = _des.Text;
-
-            if (string.IsNullOrWhiteSpace(latitude) || string.IsNullOrWhiteSpace(longitude) || string.IsNullOrWhiteSpace(descripcion) || foto.Source == null)
+            var address = new Models.Address
             {
-                await DisplayAlert("Campos Vacíos", "Por favor, complete todos los campos, incluyendo la imagen.", "OK");
+                lat = Convert.ToDouble(_lat.Text),
+                lon = Convert.ToDouble(_lon.Text),
+                description = _des.Text,
+                photo = ImagetoArrayByte()
+            };
+
+            if (await App.instance.AddLocation(address) > 0)
+            {
+                await DisplayAlert("AVISO", "Direccion Agregada Exitosamente", "OK");
+
+                Clean();
+
             }
             else
             {
-                var address = new Models.Address
-                {
-                    lat = Convert.ToDouble(_lat.Text),
-                    lon = Convert.ToDouble(_lon.Text),
-                    description = _des.Text,
-                    photo = ImagetoArrayByte()
-                };
-
-                if (await App.instance.AddLocation(address) > 0)
-                {
-                    await DisplayAlert("AVISO", "Dirección agregada exitosamente!", "OK");
-
-                    Clean();
-
-                }
-                else
-                {
-                    await DisplayAlert("ERROR", "Ha Ocurrido un Error", "OK");
-                }
+                await DisplayAlert("ERROR", "Ha Ocurrido un Error", "OK");
             }
-
-            
         }
 
         private async void btnListSites_Clicked(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new Views.PageList());
+            await Navigation.PushAsync(new NavigationPage(new Views.PageList()));
 
         }
 
@@ -113,8 +100,8 @@ namespace PM2Examen0023.Views
 
         public void Clean()
         {
-            //_lat.Text = "";
-            //_lon.Text = "";
+            _lat.Text = "";
+            _lon.Text = "";
             _des.Text = "";
             foto.Source = "";
 

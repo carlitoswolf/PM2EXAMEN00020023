@@ -1019,11 +1019,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Carlos Raul Cabrera\\Documents\\GitHub\\PM2EXAMEN00020023\\PM2Examen0023\\PM2Examen0023.csproj",
       "projectName": "PM2Examen0023",
       "projectPath": "C:\\Users\\Carlos Raul Cabrera\\Documents\\GitHub\\PM2EXAMEN00020023\\PM2Examen0023\\PM2Examen0023.csproj",
       "packagesPath": "C:\\Users\\Carlos Raul Cabrera\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Carlos Raul Cabrera\\Documents\\GitHub\\PM2EXAMEN00020023\\PM2Examen0023\\obj\\",
+=======
+      "projectUniqueName": "C:\\Practices\\PM2Examen0023\\PM2Examen0023\\PM2Examen0023.csproj",
+      "projectName": "PM2Examen0023",
+      "projectPath": "C:\\Practices\\PM2Examen0023\\PM2Examen0023\\PM2Examen0023.csproj",
+      "packagesPath": "C:\\Users\\Carlos Raul Cabrera\\.nuget\\packages\\",
+      "outputPath": "C:\\Practices\\PM2Examen0023\\PM2Examen0023\\obj\\",
+>>>>>>> 2963313d4006fa69082cf2a786e69495bd58cdad
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

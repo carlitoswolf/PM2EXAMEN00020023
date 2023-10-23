@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Carlos Raul Cabrera\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023.Android\obj\Debug\130\lp\68\jl\proguard.txt;C:\Users\Carlos Raul Cabrera\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023.Android\obj\Debug\130\androidx\proguard\6d34351f-4ae0-4568-84e8-d2b897b4b27a.txt
 C:\Users\Carlos Raul Cabrera\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023.Android\obj\Debug\130\lp\70\jl\proguard.txt;C:\Users\Carlos Raul Cabrera\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023.Android\obj\Debug\130\androidx\proguard\1ab02d91-79d2-4e2b-8a41-f1ab03437555.txt
 C:\Users\Carlos Raul Cabrera\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023.Android\obj\Debug\130\lp\71\jl\proguard.txt;C:\Users\Carlos Raul Cabrera\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023.Android\obj\Debug\130\androidx\proguard\4e997621-848b-4c44-b4b5-d45bfdf84978.txt
@@ -16,3 +17,23 @@ C:\Users\Carlos Raul Cabrera\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023.An
 C:\Users\Carlos Raul Cabrera\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023.Android\obj\Debug\130\lp\107\jl\proguard.txt;C:\Users\Carlos Raul Cabrera\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023.Android\obj\Debug\130\androidx\proguard\96525a35-5f09-4fbc-8f7b-c2443cacb6a9.txt
 C:\Users\Carlos Raul Cabrera\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023.Android\obj\Debug\130\lp\108\jl\proguard.txt;C:\Users\Carlos Raul Cabrera\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023.Android\obj\Debug\130\androidx\proguard\be1881f0-e8ac-42bc-9a73-328f8ce24bc9.txt
 C:\Users\Carlos Raul Cabrera\.nuget\packages\xamarin.forms\5.0.0.2196\buildTransitive\MonoAndroid10\proguard.cfg;C:\Users\Carlos Raul Cabrera\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023.Android\obj\Debug\130\androidx\proguard\6e1b7200-2512-42f3-8a25-0fa80bfac7f3.cfg
+=======
+C:\Practices\PM2Examen0023\PM2Examen0023.Android\obj\Debug\130\lp\68\jl\proguard.txt;C:\Practices\PM2Examen0023\PM2Examen0023.Android\obj\Debug\130\androidx\proguard\a3dcc2c0-0f25-4fe8-a69f-da217a7bb1d6.txt
+C:\Practices\PM2Examen0023\PM2Examen0023.Android\obj\Debug\130\lp\70\jl\proguard.txt;C:\Practices\PM2Examen0023\PM2Examen0023.Android\obj\Debug\130\androidx\proguard\30d192de-fc5e-4f05-a983-e56c3e0e6c6c.txt
+C:\Practices\PM2Examen0023\PM2Examen0023.Android\obj\Debug\130\lp\71\jl\proguard.txt;C:\Practices\PM2Examen0023\PM2Examen0023.Android\obj\Debug\130\androidx\proguard\8b89bdf4-c2ce-43e9-a9a5-b773d21b478c.txt
+C:\Practices\PM2Examen0023\PM2Examen0023.Android\obj\Debug\130\lp\72\jl\proguard.txt;C:\Practices\PM2Examen0023\PM2Examen0023.Android\obj\Debug\130\androidx\proguard\48fa9f49-6957-4b06-a03b-9114b9302f61.txt
+C:\Practices\PM2Examen0023\PM2Examen0023.Android\obj\Debug\130\lp\76\jl\proguard.txt;C:\Practices\PM2Examen0023\PM2Examen0023.Android\obj\Debug\130\androidx\proguard\5ff421a0-567d-4925-a8af-83525450abb2.txt
+C:\Practices\PM2Examen0023\PM2Examen0023.Android\obj\Debug\130\lp\77\jl\proguard.txt;C:\Practices\PM2Examen0023\PM2Examen0023.Android\obj\Debug\130\androidx\proguard\9e2ca4d3-fa66-455e-89ef-c31619eba008.txt
+C:\Practices\PM2Examen0023\PM2Examen0023.Android\obj\Debug\130\lp\80\jl\proguard.txt;C:\Practices\PM2Examen0023\PM2Examen0023.Android\obj\Debug\130\androidx\proguard\69cb94dc-acc3-47d7-bffe-3148647142e2.txt
+C:\Practices\PM2Examen0023\PM2Examen0023.Android\obj\Debug\130\lp\82\jl\proguard.txt;C:\Practices\PM2Examen0023\PM2Examen0023.Android\obj\Debug\130\androidx\proguard\a9c447a5-c55f-4b23-bcd3-ffe20b11bc11.txt
+C:\Practices\PM2Examen0023\PM2Examen0023.Android\obj\Debug\130\lp\83\jl\proguard.txt;C:\Practices\PM2Examen0023\PM2Examen0023.Android\obj\Debug\130\androidx\proguard\59b9c7db-262f-472a-a63c-a8a38dd9c7f6.txt
+C:\Practices\PM2Examen0023\PM2Examen0023.Android\obj\Debug\130\lp\87\jl\proguard.txt;C:\Practices\PM2Examen0023\PM2Examen0023.Android\obj\Debug\130\androidx\proguard\7190b9f9-437d-43e9-830e-4032eb42be79.txt
+C:\Practices\PM2Examen0023\PM2Examen0023.Android\obj\Debug\130\lp\88\jl\proguard.txt;C:\Practices\PM2Examen0023\PM2Examen0023.Android\obj\Debug\130\androidx\proguard\35673c1b-958a-4286-b22e-5f4e748a0e1e.txt
+C:\Practices\PM2Examen0023\PM2Examen0023.Android\obj\Debug\130\lp\96\jl\proguard.txt;C:\Practices\PM2Examen0023\PM2Examen0023.Android\obj\Debug\130\androidx\proguard\27680795-484a-495b-9678-436785a032c1.txt
+C:\Practices\PM2Examen0023\PM2Examen0023.Android\obj\Debug\130\lp\98\jl\proguard.txt;C:\Practices\PM2Examen0023\PM2Examen0023.Android\obj\Debug\130\androidx\proguard\9f8411ba-a5fe-4f2b-bdb1-8967c9826e51.txt
+C:\Practices\PM2Examen0023\PM2Examen0023.Android\obj\Debug\130\lp\101\jl\proguard.txt;C:\Practices\PM2Examen0023\PM2Examen0023.Android\obj\Debug\130\androidx\proguard\c21b8304-792b-47e9-84e8-f3931d80154f.txt
+C:\Practices\PM2Examen0023\PM2Examen0023.Android\obj\Debug\130\lp\104\jl\proguard.txt;C:\Practices\PM2Examen0023\PM2Examen0023.Android\obj\Debug\130\androidx\proguard\3b75bc7b-ab48-4dc1-94ec-0b02350fade0.txt
+C:\Practices\PM2Examen0023\PM2Examen0023.Android\obj\Debug\130\lp\107\jl\proguard.txt;C:\Practices\PM2Examen0023\PM2Examen0023.Android\obj\Debug\130\androidx\proguard\b30734d5-4fc4-4a8d-9945-cfed0d738089.txt
+C:\Practices\PM2Examen0023\PM2Examen0023.Android\obj\Debug\130\lp\108\jl\proguard.txt;C:\Practices\PM2Examen0023\PM2Examen0023.Android\obj\Debug\130\androidx\proguard\c69b0d45-6917-42d0-8d80-2943789e8a09.txt
+C:\Users\Carlos Raul Cabrera\.nuget\packages\xamarin.forms\5.0.0.2196\buildTransitive\MonoAndroid10\proguard.cfg;C:\Practices\PM2Examen0023\PM2Examen0023.Android\obj\Debug\130\androidx\proguard\3bddcb47-3de5-4676-99fa-24ed0f10ef54.cfg
+>>>>>>> 2963313d4006fa69082cf2a786e69495bd58cdad

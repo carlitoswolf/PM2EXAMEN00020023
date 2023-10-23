@@ -25,11 +25,19 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
+<<<<<<< HEAD
 _nugetassetstimestamp=638336108129383546
+=======
+_nugetassetstimestamp=638335758076894307
+>>>>>>> 2963313d4006fa69082cf2a786e69495bd58cdad
 typemapkind=strings-asm
 androidsupportedabis=arm64-v8a
 armeabi-v7a
 x86
 x86_64
 androidmanifestplaceholders=
+<<<<<<< HEAD
 projectfullpath=c:\users\carlos raul cabrera\documents\github\pm2examen00020023\pm2examen0023.android\pm2examen0023.android.csproj
+=======
+projectfullpath=c:\practices\pm2examen0023\pm2examen0023.android\pm2examen0023.android.csproj
+>>>>>>> 2963313d4006fa69082cf2a786e69495bd58cdad

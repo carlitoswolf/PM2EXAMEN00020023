@@ -14,7 +14,11 @@ namespace PM2Examen0023.Views
     public partial class PageList : ContentPage
     {
         public Double latitude, longitude;
+<<<<<<< HEAD
         public int id;
+=======
+        int id;
+>>>>>>> 2963313d4006fa69082cf2a786e69495bd58cdad
         public PageList()
         {
             InitializeComponent();
@@ -52,12 +56,19 @@ namespace PM2Examen0023.Views
                 switch (action)
                 {
                     case "Ir Mapa":
+<<<<<<< HEAD
                         await Navigation.PushAsync(new Views.PageMapa());
+=======
+                        await Navigation.PushAsync(new NavigationPage(new Views.PageMapa()));
+>>>>>>> 2963313d4006fa69082cf2a786e69495bd58cdad
                         break;
 
                     case "Eliminar":
                         await App.instance.delete(addressDLT);
+<<<<<<< HEAD
                         OnAppearing();
+=======
+>>>>>>> 2963313d4006fa69082cf2a786e69495bd58cdad
                         break;
                 }
 

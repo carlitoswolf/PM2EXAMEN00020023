@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "w9xkXW/cX+SPMH60ScQxzWTXf+G0Il/gO9WvOb8e9HB1jL32xHMr/dtpMDjc9ttNokHWABDAqEW2ezFARDTg8A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Carlos Raul Cabrera\\Documents\\GitHub\\PM2EXAMEN00020023\\PM2Examen0023\\PM2Examen0023.csproj",
+=======
+  "dgSpecHash": "FG4RCmi+21jn4Bjtk5Ju/l0JgieQcw+kUscdffe5gifzqbejd0NZrEY1sS81Cpwx94dM0dp4Loda3xBCHC34YA==",
+  "success": true,
+  "projectFilePath": "C:\\Practices\\PM2Examen0023\\PM2Examen0023\\PM2Examen0023.csproj",
+>>>>>>> 2963313d4006fa69082cf2a786e69495bd58cdad
   "expectedPackageFiles": [
     "C:\\Users\\Carlos Raul Cabrera\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Carlos Raul Cabrera\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

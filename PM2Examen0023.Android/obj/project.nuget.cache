@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "VGSOWVjI/yJzEumc9RlYjNmHaamKdkdoivU9eUaa6f4qnHmPt9JyNhVL/Dcp1C3Ya32vgBYgQANOnoD5Zz3CCw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Carlos Raul Cabrera\\Documents\\GitHub\\PM2EXAMEN00020023\\PM2Examen0023.Android\\PM2Examen0023.Android.csproj",
+=======
+  "dgSpecHash": "sCuJ5s9FUiuK1A6rAHcBl4yfqT6tO9n/Ja+jnZMZXUnX1vtEcXhO4vuhvgoOin4WiyWhCNQogUc1CP7g7LcylQ==",
+  "success": true,
+  "projectFilePath": "C:\\Practices\\PM2Examen0023\\PM2Examen0023.Android\\PM2Examen0023.Android.csproj",
+>>>>>>> 2963313d4006fa69082cf2a786e69495bd58cdad
   "expectedPackageFiles": [
     "C:\\Users\\Carlos Raul Cabrera\\.nuget\\packages\\plugin.currentactivity\\2.1.0.2\\plugin.currentactivity.2.1.0.2.nupkg.sha512",
     "C:\\Users\\Carlos Raul Cabrera\\.nuget\\packages\\plugin.permissions\\3.0.0.12\\plugin.permissions.3.0.0.12.nupkg.sha512",
