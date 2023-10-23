@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PM2Examen0023.Views.PageRegistro">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="IMAGEN SITIO VISITADO" 
+                   HorizontalTextAlignment="Center" FontAttributes="Bold"
+                   FontSize="20" Padding="10"/>
+            <Image x:Name="foto" HeightRequest="200" BackgroundColor="White"/>
+ 
+            <Button x:Name="btnfoto" Text="Tomar" Clicked="btnfoto_Clicked"/>
+
+            <Entry Keyboard="Text" Placeholder="LATITUDE" x:Name="_lat" IsReadOnly="True"/>
+            <Entry Keyboard="Text" Placeholder="LONGITUDE" x:Name="_lon" IsReadOnly="True"/>
+            <Entry Keyboard="Text" Placeholder="DESCRIPCIÓN" x:Name="_des"/>
+
+            <Button x:Name="btnAdd"  Text="Agregar" Clicked="btnAdd_Clicked" />
+            <Button x:Name="btnListSites" Text="Lista de Sitios" Clicked="btnListSites_Clicked"/>
+            <Button x:Name="btnExit" Text="Salir" Clicked="btnExit_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
