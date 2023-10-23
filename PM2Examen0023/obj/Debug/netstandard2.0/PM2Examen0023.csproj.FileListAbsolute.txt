@@ -34,3 +34,21 @@ C:\Users\USUARIO\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023\obj\Debug\nets
 C:\Users\USUARIO\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023\obj\Debug\netstandard2.0\PM2Examen0023.dll
 C:\Users\USUARIO\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023\obj\Debug\netstandard2.0\refint\PM2Examen0023.dll
 C:\Users\USUARIO\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023\obj\Debug\netstandard2.0\PM2Examen0023.pdb
+C:\Users\Carlos Raul Cabrera\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023\bin\Debug\netstandard2.0\PM2Examen0023.deps.json
+C:\Users\Carlos Raul Cabrera\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023\bin\Debug\netstandard2.0\PM2Examen0023.dll
+C:\Users\Carlos Raul Cabrera\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023\bin\Debug\netstandard2.0\ref\PM2Examen0023.dll
+C:\Users\Carlos Raul Cabrera\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023\bin\Debug\netstandard2.0\PM2Examen0023.pdb
+C:\Users\Carlos Raul Cabrera\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023\obj\Debug\netstandard2.0\PM2Examen0023.csproj.AssemblyReference.cache
+C:\Users\Carlos Raul Cabrera\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023\obj\Debug\netstandard2.0\PM2Examen0023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Raul Cabrera\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Carlos Raul Cabrera\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Carlos Raul Cabrera\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023\obj\Debug\netstandard2.0\Views\PageListLocation.xaml.g.cs
+C:\Users\Carlos Raul Cabrera\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023\obj\Debug\netstandard2.0\Views\PageMapa.xaml.g.cs
+C:\Users\Carlos Raul Cabrera\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023\obj\Debug\netstandard2.0\Views\PageRegistro.xaml.g.cs
+C:\Users\Carlos Raul Cabrera\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023\obj\Debug\netstandard2.0\PM2Examen0023.AssemblyInfoInputs.cache
+C:\Users\Carlos Raul Cabrera\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023\obj\Debug\netstandard2.0\PM2Examen0023.AssemblyInfo.cs
+C:\Users\Carlos Raul Cabrera\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023\obj\Debug\netstandard2.0\PM2Examen0023.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Raul Cabrera\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Carlos Raul Cabrera\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023\obj\Debug\netstandard2.0\PM2Examen0023.dll
+C:\Users\Carlos Raul Cabrera\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023\obj\Debug\netstandard2.0\refint\PM2Examen0023.dll
+C:\Users\Carlos Raul Cabrera\Documents\GitHub\PM2EXAMEN00020023\PM2Examen0023\obj\Debug\netstandard2.0\PM2Examen0023.pdb
