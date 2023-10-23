@@ -14,6 +14,7 @@ namespace PM2Examen0023.Views
     public partial class PageList : ContentPage
     {
         public Double latitude, longitude;
+        int id;
         public PageList()
         {
             InitializeComponent();
@@ -32,9 +33,32 @@ namespace PM2Examen0023.Views
             if (selectedItem != null)
             {
                 latitude = selectedItem.lat;
+                id = selectedItem.Id;
                 longitude = selectedItem.lon;
+                var addressDLT = new Models.Address
+                {
+                    Id = id,
+                    lon = latitude,
+                    lat = longitude,
+                    description = selectedItem.description,
+                    photo = selectedItem.photo
+                };
 
-                await Navigation.PushAsync(new Views.PageMapa());
+
+                string action = await DisplayActionSheet("Que Quieres Hacer?", "Eliminar", "Ir Mapa");
+
+
+                switch (action)
+                {
+                    case "Ir Mapa":
+                        await Navigation.PushAsync(new NavigationPage(new Views.PageMapa()));
+                        break;
+
+                    case "Eliminar":
+                        await App.instance.delete(addressDLT);
+                        break;
+                }
+
             }
         }
     }

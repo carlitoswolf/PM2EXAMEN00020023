@@ -7,7 +7,7 @@
             <Label Text="IMAGEN SITIO VISITADO" 
                    HorizontalTextAlignment="Center" FontAttributes="Bold"
                    FontSize="20" Padding="10"/>
-            <Image x:Name="foto" HeightRequest="200" BackgroundColor="White"/>
+            <Image x:Name="foto" HeightRequest="200" BackgroundColor="LemonChiffon"/>
  
             <Button x:Name="btnfoto" Text="Tomar" Clicked="btnfoto_Clicked"/>
 

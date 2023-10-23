@@ -38,7 +38,7 @@
                            HeightRequest="100"
                            Margin="5"
                            Source="{Binding photo, Converter={StaticResource ByteArray} }"/>
-                        
+
                         <Label Grid.Column="1" Text="{Binding description}"/>
 
                     </Grid>
